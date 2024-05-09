@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>translations/Totale_en_US.qm</file>
+        <file>translations/Totale_it_IT.qm</file>
+        <file>translations/Totale_ja_JP.qm</file>
+        <file>translations/Totale_ru_RU.ts</file>
+    </qresource>
+</RCC>
