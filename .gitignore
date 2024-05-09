@@ -2,7 +2,7 @@
 third-party/src/libarchive
 third-party/src/protobuf
 third-party/src/xz
-third-party/dump/libarchive
-third-party/dump/protobuf
-third-party/dump/xz
-build
+third-party/build/libarchive
+third-party/build/protobuf
+third-party/build/xz
+/build/
