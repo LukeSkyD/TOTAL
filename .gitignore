@@ -1,4 +1,8 @@
 .qm
-third-party/src
-third-party/dump
+third-party/src/libarchive
+third-party/src/protobuf
+third-party/src/xz
+third-party/dump/libarchive
+third-party/dump/protobuf
+third-party/dump/xz
 build
