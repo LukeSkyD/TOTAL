@@ -22,7 +22,7 @@ add_library(libarchive_obj OBJECT IMPORTED)
 set_target_properties(libarchive_obj PROPERTIES IMPORTED_LOCATION ${LIB_ARCHIVE})
 
 # protobuf
-#find_package(Protobuf CONFIG REQUIRED)
+find_package(Protobuf CONFIG REQUIRED)
 find_path(PROTOBUF_INCLUDE_DIRS google/protobuf/arena.h PATHS "/third-party/build/protobuf/include")
 include_directories(${PROTOBUF_INCLUDE_DIRS})
 find_library(PROTOBUF_LIB protobuf PATHS "/third-party/build/protobuf/lib")
