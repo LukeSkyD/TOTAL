@@ -369,6 +369,10 @@ This could take a while</source>
         <source>The device has been successfully flashed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Checking for device</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>

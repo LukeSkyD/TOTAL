@@ -6,120 +6,120 @@
     <message>
         <location filename="../mainwindow.ui" line="20"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="372"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="505"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="384"/>
         <source>TOTAL By LukeSkyD</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="59"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="373"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="507"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="386"/>
         <source>HOME</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="72"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="374"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="508"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="387"/>
         <source>ADB &amp; Fastboot:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="85"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="375"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="509"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="388"/>
         <source>Not found. Manually select the ADB and Fastboot directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="98"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="376"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="510"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="389"/>
         <source>Change folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="118"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="377"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="511"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="390"/>
         <source>REFRESH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="131"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="378"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="512"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="391"/>
         <source>Device:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="138"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="379"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="513"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="392"/>
         <location filename="../mainwindow.cpp" line="59"/>
         <location filename="../mainwindow.cpp" line="107"/>
         <source>Not found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="199"/>
+        <location filename="../mainwindow.ui" line="193"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="380"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="514"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="393"/>
         <source>Welcome</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="218"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="515"/>
+        <location filename="../mainwindow.ui" line="212"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="394"/>
         <source>Utilities</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="237"/>
-        <location filename="../mainwindow.ui" line="273"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="516"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="518"/>
+        <location filename="../mainwindow.ui" line="231"/>
+        <location filename="../mainwindow.ui" line="267"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="395"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="397"/>
         <source>Fastboot Flasher</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="256"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="517"/>
+        <location filename="../mainwindow.ui" line="250"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="396"/>
         <source>Unbrick</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="286"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="519"/>
+        <location filename="../mainwindow.ui" line="280"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="398"/>
         <source>Update NOS
 (no data wipe, flashes one slot)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="300"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="521"/>
+        <location filename="../mainwindow.ui" line="294"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="400"/>
         <source>Restore NOS
 (data wipe, flash to both slots)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="314"/>
+        <location filename="../mainwindow.ui" line="308"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="387"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="523"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="402"/>
         <source>Flash Custom ROM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="327"/>
+        <location filename="../mainwindow.ui" line="321"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="388"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="524"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="403"/>
         <source>Manual Flash</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="350"/>
+        <location filename="../mainwindow.ui" line="344"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="389"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="525"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="404"/>
         <source>Firmware Flash
 
 CHOOSE ONE FROM THE LIST OF SUPPORTED FILES:
@@ -132,169 +132,79 @@ CHOOSE ONE FROM THE LIST OF SUPPORTED FILES:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="379"/>
+        <location filename="../mainwindow.ui" line="373"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="398"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="534"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="413"/>
         <source>Data wipe</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="386"/>
+        <location filename="../mainwindow.ui" line="380"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="399"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="535"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="414"/>
         <source>Disable Android verfied
 boot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="394"/>
+        <location filename="../mainwindow.ui" line="388"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="401"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="537"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="416"/>
         <source>Flash logical partitions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="401"/>
+        <location filename="../mainwindow.ui" line="395"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="402"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="538"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="417"/>
         <source>Flash both slots</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="408"/>
+        <location filename="../mainwindow.ui" line="402"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="403"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="539"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="418"/>
         <source>Disable files integrity
 check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="421"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="541"/>
+        <location filename="../mainwindow.ui" line="415"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="420"/>
         <source>Add files or folder here
 (If multiple valid FWs are added, only the first one will be flashed)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="431"/>
+        <location filename="../mainwindow.ui" line="425"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="408"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="543"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="422"/>
         <source>Add</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="438"/>
+        <location filename="../mainwindow.ui" line="432"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="409"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="544"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="423"/>
         <source>Remove</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="456"/>
+        <location filename="../mainwindow.ui" line="450"/>
         <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Debug/Total_autogen/include/ui_mainwindow.h" line="410"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="545"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="424"/>
         <source>Confirm and Start flashing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="471"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="546"/>
-        <source> Reboot to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="479"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="547"/>
-        <source>system</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="484"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="548"/>
-        <source>bootloader</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="489"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="549"/>
-        <source>recovery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="494"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="550"/>
-        <source>fastbootd</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="499"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="551"/>
-        <source>edl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="511"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="553"/>
-        <source>Lock/unlock the bootloader</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="519"/>
-        <location filename="../mainwindow.ui" line="544"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="554"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="558"/>
-        <source>lock</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="524"/>
-        <location filename="../mainwindow.ui" line="549"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="555"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="559"/>
-        <source>unlock</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="536"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="557"/>
-        <source>Lock/unlock critical partitions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="559"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="561"/>
-        <source>Proceed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="570"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="562"/>
-        <source>Extract partitions from payload.bin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="577"/>
-        <location filename="../mainwindow.ui" line="595"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="563"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="565"/>
-        <source>Manage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="588"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="564"/>
-        <source>Manage Magisk boot backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../mainwindow.ui" line="621"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="566"/>
+        <location filename="../mainwindow.ui" line="474"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="425"/>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="631"/>
-        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="506"/>
+        <location filename="../mainwindow.ui" line="484"/>
+        <location filename="../build/Desktop_Qt_6_6_2_MSVC2019_64bit-Release/Total_autogen/include/ui_mainwindow.h" line="385"/>
         <source>About QT</source>
         <translation type="unfinished"></translation>
     </message>
@@ -398,7 +308,6 @@ Are you sure you want to continue?</source>
         <location filename="../mainwindow.cpp" line="302"/>
         <location filename="../mainwindow.cpp" line="311"/>
         <location filename="../mainwindow.cpp" line="347"/>
-        <location filename="../mainwindow.cpp" line="383"/>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -461,18 +370,12 @@ This could take a while</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="383"/>
-        <source>Please select a valid option.</source>
+        <source>Checking for device</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
-    <message>
-        <location filename="../mainwindow.cpp" line="90"/>
-        <source>Checking for device</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <location filename="../src/extractor.cpp" line="122"/>
         <location filename="../src/extractor.cpp" line="129"/>
@@ -526,6 +429,11 @@ File not found.</source>
     <message>
         <location filename="../src/phone.cpp" line="51"/>
         <source>Fastboot not found in the specified path.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="90"/>
+        <source>Checking for device</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
