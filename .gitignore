@@ -6,3 +6,4 @@ third-party/build/libarchive
 third-party/build/protobuf
 third-party/build/xz
 /build/
+CMakeLists.txt.user
