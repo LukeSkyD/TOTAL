@@ -307,7 +307,7 @@ void MainWindow::on_bBLConf_clicked()
         }
         deviceCheck(false);
     }
-    if (!(blFlags & 0x08)){
+    if (!(setFlags & 0x08)){
         QMessageBox::warning(this, tr("Error"), tr("The bootloader is locked, unlock it and try again."));
         m_progressDialog->close();
         return;
